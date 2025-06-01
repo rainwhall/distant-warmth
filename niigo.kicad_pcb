@@ -116,7 +116,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "./")
+			(outputdirectory "drl flies/")
 		)
 	)
 	(net 0 "")
@@ -2485,7 +2485,7 @@
 		(property "Reference" "R1"
 			(at 3.81 2.37 0)
 			(layer "B.SilkS")
-			(uuid "50ab7737-df5e-45af-8921-56f345d6ddf3")
+			(uuid "b6360641-f354-40eb-a0fc-a956d5431e99")
 			(effects
 				(font
 					(size 1 1)
@@ -2497,7 +2497,7 @@
 		(property "Value" "4.7K"
 			(at 3.81 -2.37 0)
 			(layer "B.Fab")
-			(uuid "f91c858a-ce14-42d7-bc79-616f74e1655a")
+			(uuid "45073bf8-3462-412b-889a-77afa434a7e0")
 			(effects
 				(font
 					(size 1 1)
@@ -2510,7 +2510,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2de6aec4-d9e0-4ac3-a818-4855dca681f2")
+			(uuid "59e3cb85-c0a6-49ad-b1bd-aee17cb5a82a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2523,7 +2523,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "95b571b8-5e2d-4fff-b96d-3d867a5bd48a")
+			(uuid "9fec5de0-4d2e-4c2d-82a9-47d57f30a3af")
 			(effects
 				(font
 					(size 1.27 1.27)
