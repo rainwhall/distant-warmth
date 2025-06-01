@@ -48,3 +48,4 @@ It may not do much, but at least it'll get you through this dark night...</p>
 [Solder](https://solder.hackclub.com/)
 
 </i>
+<i>@rainwhal on slack</i>
