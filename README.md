@@ -4,7 +4,7 @@
 
 </br>
 
-<p>A simple PCB keychain of the Nightcord at 25's group symbol! In the dark (or grasped in your hand), a LED lights up.
+<p>A simple PCB keychain of the Nightcord at 25's group symbol! In the dark (or grasped in your hand), a LED lights up and something vibrates with the push of a button.
 It may not do much, but at least it'll get you through this dark night...</p>
 </br>
 
