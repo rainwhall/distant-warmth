@@ -8,7 +8,26 @@
 It may not do much, but at least it'll get you through this dark night...</p>
 </br>
 
-> <p><i>"I feel so relieved when you squeeze my hand..."</i></p>
+> <p><i>""This place" is what's so warm..."</i></p>
+<h3>Schematic</h3>
+
+![image](https://github.com/user-attachments/assets/835e886d-ce32-4525-a126-11ca0bd16927)
+
+</br>
+
+<h3>PCB View</h3>
+
+![image](https://github.com/user-attachments/assets/8f59e636-d307-4171-8517-376d3896800a)
+
+</br>
+
+<h3>3D View</h3>
+
+![image](https://github.com/user-attachments/assets/deb3663c-a174-4380-a234-2481cfedef42)
+
+</br>
+
+> <p><i>"I'll keep enjoying this "warmth" a little longer..."</i></p>
 <h3>Components used:</h3>
 <ul>
   <li>1x 5.0mm LED (any colour you want!)</li>
