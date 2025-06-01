@@ -41,3 +41,10 @@ It may not do much, but at least it'll get you through this dark night...</p>
   <li>3x 4.7K resistor</li>
   <li>1x 470R resistor</li>
 </ul>
+
+</br>
+<i>Made for 
+
+[Solder](https://solder.hackclub.com/)
+
+</i>
