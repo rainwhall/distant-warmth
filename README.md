@@ -6,3 +6,11 @@
 
 <p>A simple PCB keychain of the Nightcord at 25's group symbol! In the dark (or grasped in your hand), a LED lights up.
 It may not do much, but at least it'll get you through this dark night...</p>
+</br>
+
+> <p><i>"I feel so relieved when you squeeze my hand..."</i></p>
+<h3>Components used:</h3>
+<ul>
+  <li>5.0mm LED (any colour you want!)</li>
+  <li></li>
+</ul>
