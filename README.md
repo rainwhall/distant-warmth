@@ -11,19 +11,22 @@ It may not do much, but at least it'll get you through this dark night...</p>
 > <p><i>""This place" is what's so warm..."</i></p>
 <h3>Schematic</h3>
 
-![image](https://github.com/user-attachments/assets/835e886d-ce32-4525-a126-11ca0bd16927)
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/ab00d42a-c7e3-45c6-90f6-1c60f37f79cc" />
+
 
 </br>
 
 <h3>PCB View</h3>
 
-![image](https://github.com/user-attachments/assets/8f59e636-d307-4171-8517-376d3896800a)
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/4418f58e-881e-4845-bdb0-7f25678e3fe8" />
+
 
 </br>
 
 <h3>3D View</h3>
 
-![image](https://github.com/user-attachments/assets/deb3663c-a174-4380-a234-2481cfedef42)
+<img width="459" alt="image" src="https://github.com/user-attachments/assets/d8da8a78-2870-42b9-be13-2534c876cbda" />
+
 
 </br>
 
