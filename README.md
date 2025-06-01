@@ -11,6 +11,11 @@ It may not do much, but at least it'll get you through this dark night...</p>
 > <p><i>"I feel so relieved when you squeeze my hand..."</i></p>
 <h3>Components used:</h3>
 <ul>
-  <li>5.0mm LED (any colour you want!)</li>
-  <li></li>
+  <li>1x 5.0mm LED (any colour you want!)</li>
+  <li>1x 6.0mm push button</li>
+  <li>1x CR2032 battery cell</li>
+  <li>1x motor disc</li>
+  <li>2x NPC transistor</li>
+  <li>3x 4.7K resistor</li>
+  <li>1x 470R resistor</li>
 </ul>
